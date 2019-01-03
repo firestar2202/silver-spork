@@ -12,6 +12,8 @@ Silver Spork is a collection of party games for you and your friends! Exciting g
          - Pick up from the ground
    - PVE modes
      - Obstacle course - with pushing?
+      - when you die, you are sent back to beginning
+      - obstacles try to kill you
      - Archery
      - Mode ranks players from 1st to last, with more points going to better ranks, (ex: 3 points for winning, 2 for 2nd, 1 for 3rd, nada for everyone else)
 
